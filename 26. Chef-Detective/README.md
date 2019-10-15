@@ -31,3 +31,4 @@ Output:
 Explanation
 The reporting structure:
 
+SEE THE PICTURE UPLOADED
